@@ -2,15 +2,12 @@
 # About
 Hello 👋. My name is Zinnur. I enjoy programming in Go and Java. I strive to create projects that aid my learning and professional development as a developer. In my GitHub profile you can find projects primarily focused on Backend Development. 
 
-
 ## Tools & Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,go,git,kubernetes,docker,idea,postgresql,github,java,spring" />
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,git,github,docker,maven,idea)](https://skillicons.dev)
 
 ## Located
 Online
