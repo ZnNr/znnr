@@ -9,12 +9,25 @@ Hello 👋. My name is Zinnur. I enjoy programming in Go and Java. I strive to c
   </a>
 </p>
 
+### Currently I'm studying Go and relevant techs
+
+
 ## Located
 Online
 
 ## Contact me:
 - [Telegram](https://t.me/noxzn)<br>
 - [Mail](mailto:lightspot98@gmail.com)
+
+
+
+### Go projects
+- [Metrics collection and alerting server](https://github.com/ZnNr/go-musthave-metrics) - ongoing educational project  
+
+### Java projects
+- [java-explore-with-me](https://github.com/ZnNr/java-explore-with-me) - graduation project: spring boot, jpa, postgresql, docker
+- [java-filmorate](https://github.com/ZnNr/java-filmorate) - group project: spring boot, jdbc, postgresql
+
 <!--
 **ZnNr/znnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
