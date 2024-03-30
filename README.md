@@ -22,6 +22,7 @@ Online
 
 
 ### Go projects
+- [Loyalty system project ](https://github.com/ZnNr/Go-GopherMart) - mid-course graduation project
 - [Metrics collection and alerting server](https://github.com/ZnNr/go-musthave-metrics) - ongoing educational project  
 
 ### Java projects
