@@ -5,7 +5,7 @@ Hello 👋. My name is Zinnur. I enjoy programming in Go and Java. I strive to c
 ## Tools & Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,go,git,kubernetes,docker,idea,postgresql,github,java,spring" />
+    <img src="https://skillicons.dev/icons?i=linux,go,goland,git,kubernetes,docker,idea,postgresql,github,java,spring" />
   </a>
 </p>
 
