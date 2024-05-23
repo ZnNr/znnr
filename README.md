@@ -23,7 +23,8 @@ Online
 
 ### Go projects
 - [Loyalty system project ](https://github.com/ZnNr/Go-GopherMart) - mid-course graduation project
-- [Metrics collection and alerting server](https://github.com/ZnNr/go-musthave-metrics) - ongoing educational project  
+- [Metrics collection and alerting server](https://github.com/ZnNr/go-musthave-metrics) - ongoing educational project
+- [Simple task scheduler](https://github.com/ZnNr/go-todo) junior graduation project
 
 ### Java projects
 - [java-explore-with-me](https://github.com/ZnNr/java-explore-with-me) - graduation project: spring boot, jpa, postgresql, docker
