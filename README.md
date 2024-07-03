@@ -22,9 +22,10 @@ Online
 
 
 ### Go projects
+- [GopherVault: Go Secret Sentinel](https://github.com/ZnNr/Go-GopherMar) - graduation project "Advanced Go Developer" client-server system that allows the user to reliably and securely store logins, passwords, binary data and other private information. 
 - [Loyalty system project ](https://github.com/ZnNr/Go-GopherMart) - mid-course graduation project
-- [Metrics collection and alerting server](https://github.com/ZnNr/go-musthave-metrics) - ongoing educational project
-- [Simple task scheduler](https://github.com/ZnNr/go-todo) junior graduation project
+- [Metrics collection and alerting server](https://github.com/ZnNr/go-musthave-metrics) - End-to-end coursework training project
+- [Simple task scheduler](https://github.com/ZnNr/go-todo) junior Go graduation project
 
 ### Java projects
 - [java-explore-with-me](https://github.com/ZnNr/java-explore-with-me) - graduation project: spring boot, jpa, postgresql, docker
