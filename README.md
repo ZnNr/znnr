@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About
-Hello 👋. My name is Zinnur. I enjoy programming in Go and Java. I strive to create projects that aid my learning and professional development as a developer. In my GitHub profile you can find projects primarily focused on Backend Development. 
+Hi! I'm Zinnur, a Backend Developer with a core focus on Go and Java. My GitHub is a learning hub where I build pet projects, solve coding challenges for myself, and implement technical test assignments. I'm also expanding my low-level skills by learning C. My goal is to deepen my system design and engineering expertise through practical coding.
 
 ## Tools & Technologies:
 <p align="center">
@@ -10,7 +10,13 @@ Hello 👋. My name is Zinnur. I enjoy programming in Go and Java. I strive to c
 </p>
 
 ### Currently I'm studying Go and relevant techs
-
+Backend-focused developer passionate about Go, Java, and systems programming.
+⚙️ Currently learning: C
+📁 My repositories include:
+• Pet projects to explore new concepts
+• Solutions to personal coding challenges
+• Implementations of technical test assignments
+🚀 Goal: Building a deep, practical understanding of software development.
 
 ## Located
 Online
