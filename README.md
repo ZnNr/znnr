@@ -9,14 +9,13 @@ Hi! I'm Zinnur, a Backend Developer with a core focus on Go and Java. My GitHub 
   </a>
 </p>
 
-### Currently I'm studying Go and relevant techs
-Backend-focused developer passionate about Go, Java, and systems programming.
-⚙️ Currently learning: C
-📁 My repositories include:
-• Pet projects to explore new concepts
-• Solutions to personal coding challenges
-• Implementations of technical test assignments
-🚀 Goal: Building a deep, practical understanding of software development.
+### Backend-focused developer passionate about Go, Java, and systems programming.
+### ⚙️ Currently learning: C
+### 📁 My repositories include:
+#### • Pet projects to explore new concepts
+####• Solutions to personal coding challenges
+####• Implementations of technical test assignments
+##🚀 Goal: Building a deep, practical understanding of software development.
 
 ## Located
 Online
